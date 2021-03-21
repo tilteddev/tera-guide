@@ -1,0 +1,15 @@
+{
+    "files": {
+        "guides/9044.js": "cd19edad3d5719b3cbb6e1f7a2065cc1f8b2087ca15e1f5e1143fc94de7a6735",
+        "index.js": "0f7a4193238d859c8e356eecd3c7527a043e577c0f039b6e9e39384d89667517",
+        "lang/dungeons.js": "4f531f81d571171dddf2140f8cf06a3460f909ff9b2b33a8d93a3c520fc81432",
+        "lang/strings.js": "213669c7cd7cd4b8f372b32d0f9f0fbf9005abb8c014742b58ecdf35f6d5931e",
+        "module.json": "ec03cfcd9a752dc52e3074fd963ecc474d3bcbd22f4fba670644e841bbe63210",
+        "settings_migrator.js": "6c57dfd34fa6446b4ad18e5e04cd464606c6c6e97194acb1b494978350065f9a"
+    },
+    "defs": {
+        "S_ABNORMALITY_BEGIN": 4,
+        "S_ABNORMALITY_END": 1,
+        "S_USER_EFFECT": 1
+    }
+}
